@@ -4,6 +4,9 @@ The program is specifically laid out under its current state to function as a di
 review with Best.py specific instances of a certain card by searching by the Players name.
 
 
+Any type assitance is sought for this program to help more write the code cleaner and more succinct.
+
+
 
 
 
